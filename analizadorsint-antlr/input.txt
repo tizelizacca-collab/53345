@@ -1,0 +1,8 @@
+si falso entonces {
+    imprimir("hola");
+} sino {
+    imprimir("chau");
+}
+
+
+
